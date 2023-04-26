@@ -3227,3 +3227,7 @@ input, select, textarea {
 	.negrita {
 		font-weight: bold;
 	}
+
+	ul.actions {
+		margin-top: 1em !important;
+	}

@@ -12,7 +12,7 @@ $formcontent="
 
 $recipient = "manuel.barreiro@ing.austral.edu.ar";
 
-$subject = "Consulta - $name";
+$subject = "Consulta Freelance";
 
 $header = "From: $email \r\n";
 $header .= "Content-Type: text/plain; charset=UTF-8";
